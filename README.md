@@ -6,7 +6,7 @@ I built this as my first Python data project to better understand what drives Al
 
 ## Data
 
-- AESO: Hourly Metered Volumes, Pool Price, and Alberta Internal Load, 2020 – Jul 2025
+- AESO CSV (**NEEDED FOR CODE**): Hourly Metered Volumes, Pool Price, and Alberta Internal Load, 2020 – Jul 2025
   https://www.aeso.ca/market/market-and-system-reporting/data-requests/hourly-generation-metered-volumes-and-pool-price-and-ail-data-2001-to-july-2025/
 - Analysis period: Jan 2024 – Jul 2025
 - Hourly data in Mountain Time
